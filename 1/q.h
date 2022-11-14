@@ -32,7 +32,6 @@
 // start = (0,0), end = (1, 2).
 // Output: 1
 
-// Note: Assume m >= 1
 // Hint: At each location in the graph we have two choices. Try to use this to
 // write a recursive relationship.
 int FindNumberOfUniquePaths(const std::vector<std::vector<int>> &grid,
